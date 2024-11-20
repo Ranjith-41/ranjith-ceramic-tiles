@@ -26,7 +26,7 @@ function Hero() {
           Transform Your Spaces with{" "}
           <span className="rotating-text">{words[currentWordIndex]}</span>
         </h1>
-        <p>Top Quality Tiles, Marbles, and Bathtubs from the Heart of India</p>
+        <p>The Perfect Blend of Style and Durability for Your Home</p>
         <button className="cta-button" onClick={handleButtonClick}>
           Explore Our Collection
         </button>
