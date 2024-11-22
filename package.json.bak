@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "nalanda-ceramics",
   "version": "0.1.0",
   "private": true,
@@ -8,37 +7,6 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-=======
-  "name": "ranjith-ceramic-tiles-main",
-  "version": "1.0.0",
-  "description": "Tiles showroom website built with React",
-  "main": "index.js",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ranjith-41/ranjith-ceramic-tiles.git"
-  },
-  "keywords": [
-    "tiles",
-    "marbles",
-    "showroom",
-    "react"
-  ],
-  "author": "Ranjith",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ranjith-41/ranjith-ceramic-tiles/issues"
-  },
-  "homepage": "https://Ranjith-41.github.io/ranjith-ceramic-tiles",
-  "dependencies": {
->>>>>>> d30e59d (first commit)
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0",
@@ -46,7 +14,6 @@
     "react-scroll": "^1.9.0",
     "web-vitals": "^2.1.4"
   },
-<<<<<<< HEAD
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -60,10 +27,6 @@
       "react-app",
       "react-app/jest"
     ]
-=======
-  "devDependencies": {
-    "gh-pages": "^6.2.0"
->>>>>>> d30e59d (first commit)
   },
   "browserslist": {
     "production": [
@@ -76,11 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.2.0"
-=======
->>>>>>> d30e59d (first commit)
   }
 }
